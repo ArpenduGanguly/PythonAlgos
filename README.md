@@ -1,8 +1,6 @@
 # PythonAlgos
+
 ## Please refer to Master Branch
-![python-programming-language](https://user-images.githubusercontent.com/19888412/129471337-291605b7-90c3-48ef-94bc-73f160101f15.jpg)
-
-
 ## Data Handling, Feature Engineering Codes in Python on the following items:
 #### - Data Sturctures in Python
 #### - String Functions
@@ -11,3 +9,6 @@
 #### - Unit Testing in Python
 #### - Shell Processing 
 #### - Data Handling through Pandas & Numpy
+!![Python_Image](https://user-images.githubusercontent.com/19888412/129482196-1a12f45e-feb6-4543-b632-b58bb37b92fb.png)
+
+
