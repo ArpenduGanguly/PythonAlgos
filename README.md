@@ -9,6 +9,6 @@
 #### - Unit Testing in Python
 #### - Shell Processing 
 #### - Data Handling through Pandas & Numpy
-!![Python_Image](https://user-images.githubusercontent.com/19888412/129482196-1a12f45e-feb6-4543-b632-b58bb37b92fb.png)
+![Python_Image](https://user-images.githubusercontent.com/19888412/129482196-1a12f45e-feb6-4543-b632-b58bb37b92fb.png)
 
 
