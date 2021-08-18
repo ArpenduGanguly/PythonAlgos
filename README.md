@@ -1,11 +1,15 @@
 # PythonAlgos
 
+------------------------------------------------------------------------------
+
 ## Please refer to Master Branch
 ## Data Handling, Feature Engineering Codes in Python on the following items:
-#### - Data Sturctures in Python
+#### - Data Strutures in Python
 #### - String Functions
 #### - Dictionaries, Lists, Sets, Tuples
-#### - Functions, Modules, Classes
+#### - Functions
+#### - Modules
+#### - Classes
 #### - Unit Testing in Python
 #### - Shell Processing 
 #### - Data Handling through Pandas & Numpy
